@@ -1,6 +1,6 @@
 # Calculator
 ## Overview:
-**Java Program** to develop Swing GUI based *standard calculator*.
+**Java Program** to develop Swing GUI based *STANDARD CALCULATOR*.
 In this program I had created an GUI based calculator using the Swing.
 The simple mathematical operations like addition, subtraction, multiplication, division and modulus are provided for user. 
 With the help of the above provided code which is written purely in Java Programming Language you can get an idea of desiging of Calculator with GUI based interface...
